@@ -1,4 +1,4 @@
-# TriviaApp
+# General Knowledge Trivia
 iOS general knowledge trivia quiz app
 
 Uses Swift and SwiftUI to create a simple yet fun quiz game to test your general knowledge.
